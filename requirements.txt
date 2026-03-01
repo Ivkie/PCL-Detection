@@ -5,3 +5,9 @@ scikit-learn
 numpy
 jupyter
 textblob
+torch
+transformers
+sentencepiece 
+protobuf 
+tiktoken
+python-dotenv
